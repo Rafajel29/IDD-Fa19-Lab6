@@ -8,6 +8,8 @@
 
 I made a ChatBot that could hellp one calculate how many days they need to study for a test. The ChatBot takes multiple factors into account and if you do not have enought time left to study as much as you should the ChatBot will inform you of that as well and tell you that a few all nighters might be neccasary. If you have enought time left the ChatBot tells you how many extra days you have before you need to start studying. Factors that the ChatBot takes into account are things such as how many days you usually study, do you have other work to do also and if you need to increase your grade.
 
+[The code used for my ChatBot](chatServer.js)<br />
+
 ## Record someone trying out your ChatBot
 
 
