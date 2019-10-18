@@ -12,6 +12,10 @@ I made a ChatBot that could hellp one calculate how many days they need to study
 
 ## Record someone trying out your ChatBot
 
+[Demo video 1 of my ChatBot](https://youtu.be/sR2BiGugDrs)<br />
+
+[Demo video 2 of my ChatBot](https://youtu.be/xp3duXNvKh4)<br />
+
 
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
