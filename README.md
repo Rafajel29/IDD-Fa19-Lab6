@@ -1,18 +1,15 @@
 # ChatBot
 
-*A lab report by John Q. Student*
+*A lab report by FJ Fourie. Student*
 
 ## In this Report
 
-To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab6). You'll need to upload any code you change into your fork, as well as upload a video of a friend or classmate using your chatbot.
-
 ## Make the ChatBot your own
 
-**Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
+I made a ChatBot that could hellp one calculate how many days they need to study for a test. The ChatBot takes multiple factors into account and if you do not have enought time left to study as much as you should the ChatBot will inform you of that as well and tell you that a few all nighters might be neccasary. If you have enought time left the ChatBot tells you how many extra days you have before you need to start studying. Factors that the ChatBot takes into account are things such as how many days you usually study, do you have other work to do also and if you need to increase your grade.
 
 ## Record someone trying out your ChatBot
 
-**Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
 
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
